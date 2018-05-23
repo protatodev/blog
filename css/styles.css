@@ -17,3 +17,9 @@
 h1.heading {
   text-align: center;
 }
+
+h2.odd {
+  background-color: black;
+  width: 100%;
+  color: white;
+}
